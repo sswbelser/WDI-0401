@@ -1,0 +1,17 @@
+{
+  "name": "mongo-practice",
+  "version": "1.0.0",
+  "description": "Practice with mongo and server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sabastian Belser",
+  "license": "ISC",
+  "dependencies": {
+    "body": "^5.1.0",
+    "express": "^4.13.1",
+    "mongoose": "^4.0.7",
+    "parser": "^0.1.4"
+  }
+}
